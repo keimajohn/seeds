@@ -11,21 +11,31 @@
 }
 
 .footer {
-  background-color: #000000;
-  color: #fca311;
+  background-color: #fca311;
+  color: #000000;
   margin: 0px auto;
-  padding: 20px 0px 20px 0px;
+  padding: 20px 0px 0px 0px;
 }
 
 .jumbotron {
-  padding: 70px 30px 70px 30px;
+  padding: 10px 10px 10px 10px;
   margin: 0px auto;
-  background: #000000;
+  background: #fca311;
   color: floralwhite;
 }
 
 .address {
   font-size: 80%;
   margin-left: 0px;
-  color: #e5e5e5;
+  color: #14213d;
+}
+
+#social-foot {
+  color: #ffffff;
+}
+
+#copyright-foot {
+  margin: 30px 0px 0px 0px;
+  background-color: #14213d;
+  color: #ffffff;
 }
