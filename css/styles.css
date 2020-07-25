@@ -10,7 +10,6 @@
 .row-content {
   margin: 0px auto;
   padding: 50px 0px 50px 0px;
-  border-bottom: 1px ridge;
   min-height: 400px;
 }
 
@@ -38,6 +37,10 @@
   font-size: 80%;
   margin-left: 0px;
   color: #14213d;
+}
+
+.bg-grey {
+  background-color: #e5e5e5;
 }
 
 #social-foot {
