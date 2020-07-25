@@ -1,0 +1,27 @@
+{
+  "name": "seeds-website",
+  "version": "1.0.0",
+  "description": "SEEDS website",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keimajohn/seeds.git"
+  },
+  "keywords": [
+    "seeds"
+  ],
+  "author": "John Thangminlun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keimajohn/seeds/issues"
+  },
+  "homepage": "https://github.com/keimajohn/seeds#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
