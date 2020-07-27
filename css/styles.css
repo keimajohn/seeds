@@ -43,15 +43,16 @@
   background-color: #e5e5e5;
 }
 
-#social-foot {
-  color: #ffffff;
-}
-
 #copyright-foot {
   margin: 30px 0px 0px 0px;
   background-color: #14213d;
   color: #ffffff;
 }
+
+#link {
+  color: #ffffff;
+}
+
 
 body {
   padding: 50px 0px 0px 0px;
